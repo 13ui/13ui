@@ -1,0 +1,4 @@
+- Hello, I am "13", I am here to work on my github and project knowledge.
+- I am a self-taught programmer, I would be happy to be a part of a project if you are looking for someone.
+- I'm currently learning Python and JavaScript.
+- You can reach me though nycx.ui@gmail.com
